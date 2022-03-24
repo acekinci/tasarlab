@@ -221,7 +221,61 @@
 
     <!-- Footer -->
     <div class="footer">
-      
+      <div class="footer-top">
+       <span class="Well-help-you-resol">We’ll help you resolve your issues quickly and easily, getting you back to more important things.</span>
+       <div class="footer-button"><button class="footer-btn">Book Appoinment<i class="fa-solid fa-arrow-right"></i></button></div></div>
+      <div class="line"></div>
+
+      <div class="footer-mid">
+        <div class="footer-1">
+          <span class="Contact-us">Contact us</span>
+            <span class="PO-Box-16122-Collins">PO Box 16122 Collins Street West Victoria 8007 Australia – Map <br> +61 3 8376 6284</span>
+        <div class="Logo" style="color:#000;"><i class="fa-brands fa-facebook-f"></i><i class="fa-brands fa-instagram"></i><i class="fa-brands fa-twitter"></i><i class="fa-brands fa-pinterest"></i><i class="fa-brands fa-youtube"></i></div>
+        </div>
+        <div class="footer-1">
+          <span class="Our-office">Our office</span>
+          <ul>
+            <li>New York</li>
+            <li>London SF</li>
+            <li>Los Angles</li>
+            <li>Las Vegas</li>
+          </ul>
+        </div>
+         <div class="footer-1"><span class="Our-services-1">Our services</span> 
+         <ul>
+           <li><a href="">Web Design</a></li>
+           <li><a href="">App Design</a></li>
+           <li><a href="">Marketing</a></li>
+           <li><a href="">Branding</a></li>
+           <li><a href="">App & Web Development</a></li>
+           <li><a href="">Financial services</a></li>
+         </ul>
+         </div>    
+        <div class="footer-1">
+          <span class="footer-links">Link</span>
+          <ul>
+            <li><a href="">Privacy Policy</a></li>
+            <li><a href="">Terms of Service</a></li>
+            <li><a href="">Legal info</a></li>
+            <li><a href="">Knowledge Base</a></li>
+            <li><a href="">GDPR Update</a></li>
+          </ul>
+        </div>
+        <div class="footer-1"><span class="Customer-Support">Customer Support</span> 
+        <ul>
+          <li><a href="">The Blog</a></li>
+          <li><a href="">FAQs</a></li>
+          <li><a href="">Contact</a></li>
+          <li><a href="">Call us</a></li>
+        </ul>
+        </div>
+        </div>
+
+        <div class="line" style="margin-top:95px;"></div>
+
+      <div class="footer-bottom">
+        <span class="Alitstudio-2019-A">Alitstudio © 2019. All Rights Reserved</span>
+      </div>
     </div>
     <!-- Footer End-->
 
