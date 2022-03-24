@@ -1,0 +1,248 @@
+/* Main Css */
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style-type: none;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  text-rendering: optimizeLegibility;
+}
+body {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+ul li {
+  list-style-type: none;
+}
+a {
+  list-style-type: none;
+  text-decoration: none;
+}
+.carousel-img {
+  height: auto;
+  flex-grow: 0;
+  object-fit: contain;
+  background-blend-mode: hard-light;
+  background-image: linear-gradient(to bottom, #4c269d, #4c269d);
+}
+/* Main Css End */
+
+/* Header */
+.header {
+  align-items: center;
+  height: 100px;
+  position: absolute;
+  z-index: 10000;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.header-left {
+  margin-left: 2.313rem;
+  display: flex;
+}
+.Path {
+  width: 35px;
+  height: 40px;
+  flex-grow: 0;
+  margin: 0 2px 0 0;
+  background-color: #fff;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+.purple-m {
+  font-weight: bold;
+  margin-right: -15px;
+  color: #4c269d;
+}
+.Rectangle {
+  margin: 0rem 2.5rem 0rem 6.938rem;
+  width: 1px;
+  height: 40px;
+  flex-grow: 0;
+  background-color: #d8d8d8;
+}
+.header-left-btn {
+  display: flex;
+  width: 137px;
+  height: 40px;
+  font-size: 13px;
+  background-color: transparent;
+  color: #fff;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+  border: solid 2px #fff;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+}
+.fa-arrow-right {
+  margin-left: 10px;
+  width: 16px;
+  height: 11px;
+}
+.header-right ul {
+  display: flex;
+  margin-right: 3.813rem;
+}
+.header-right ul li a {
+  color: #fff;
+}
+.fa-angle-down {
+  color: #fff;
+  width: 8px;
+  height: 4.8px;
+  margin: 0px 34px 0px 8px;
+}
+.fa-magnifying-glass {
+  color: #fff;
+  width: 18px;
+  height: 18px;
+}
+.IconSearch {
+  width: 18px;
+  height: 18px;
+  background-color: #fff;
+}
+/* Header End */
+
+/* Slider */
+.carousel-indicators [data-bs-target] {
+  width: 8px !important;
+  height: 8px !important;
+  border-radius: 50% !important;
+}
+.carousel-item {
+  background-image: url("~@/assets/images/unsplash_g1Kr4Ozfoac.png");
+  height: 850px;
+  width: 100%;
+}
+.mid {
+  width: 70%;
+  position: absolute;
+  top: 55.5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.header1 {
+  line-height: 1.29;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 48px;
+  color: #fff;
+}
+.header-p {
+  margin: 19px 0 0;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+  padding-bottom: 47px;
+}
+.mid-link {
+  color: #fff;
+}
+/* Slider End */
+
+/* Pages */
+.pages {
+  height: 260px;
+  width: 100%;
+}
+.logos {
+  width: 100%;
+  height: 100px;
+}
+.logo-p {
+  margin: 80px 168px 80px 0px;
+}
+/* Pages End */
+
+/* Our Services */
+.services {
+  width: 100%;
+  height: 1007px;
+  flex-grow: 0;
+  background-color: #fff;
+}
+.Our-Services {
+  width: 272.5px;
+  height: 50px;
+  font-size: 48px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.04;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+}
+.services-top {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.box-s {
+  text-align: left;
+  flex-direction: row;
+  margin: 60px 30px 0px 0px;
+  width: 270px;
+  height: 302px;
+  flex-grow: 0;
+  border-radius: 5px;
+  box-shadow: 0 2px 50px 0 rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  padding: 28px 20px 30px;
+}
+.special {
+  position: relative;
+  z-index: 2;
+  background-color: #fff;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  box-shadow: 0 2px 50px 0 rgba(0, 0, 0, 0.1);
+}
+.oval-box {
+  position: relative;
+  z-index: 1;
+  margin-top: -180px;
+  width: 352px;
+  height: 352px;
+  background-color: #dce0ec;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+.services-bottom {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.s-b-left {
+  display: flex;
+  width: auto;
+}
+.img-s {
+  margin: 100px 0px 0px 30px;
+}
+/* Our Services End*/
