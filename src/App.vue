@@ -159,15 +159,67 @@
     <!-- Case Studies End -->
     <!-- Elements -->
       <div class="elements">
-        <h1>Why Chose Us</h1>
+        <span class="Why-Choose-Us">Why Choose Us</span>
+        <div class="e-g">
         <div class="e-top">
-         .
+         <div class="span-1">
+           <div class="number-box"><span>01</span></div>
+          <span class="High-Touch-Communica">High Touch Communication.</span>
+          <span class="We-meet-customers-in">We meet customers in set place to discuss the details about needs and demands before proposing a plan.</span>
+         </div>
+         <div class="span-1">
+           <div class="number-box"><span>02</span></div>
+           <span class="We-Are-FUN-To-Work-W">We Are FUN To Work With.</span>
+          <span class="We-meet-customers-in">We meet customers in set place to discuss the details about needs and demands before proposing a plan.</span>
+         </div>
+         <div class="span-1">
+           <div class="number-box"><span>03</span></div>
+          <span class="High-Touch-Communica">High Touch Communication.</span>
+           <span class="We-meet-customers-in">We meet customers in set place to discuss the details about needs and demands before proposing a plan.</span>
+         </div>
+         <div class="span-1"><div class="number-box"><span>04</span></div>
+         <span class="Committed-to-Quality">Committed to Quality.</span>
+         <span class="We-meet-customers-in">We meet customers in set place to discuss the details about needs and demands before proposing a plan.</span>
+         </div>
         </div>
         <div class="e-bottom">
-
+         <div class="span-2">
+           <div class="number-box"><span>05</span></div>
+          <span class="High-Touch-Communica">High Touch Communication.</span>
+          <span class="We-meet-customers-in">We meet customers in set place to discuss the details about needs and demands before proposing a plan.</span>
+         </div>
+         <div class="span-2">
+           <div class="number-box"><span>06</span></div>
+           <span class="We-Are-FUN-To-Work-W">We Are FUN To Work With.</span>
+          <span class="We-meet-customers-in">We meet customers in set place to discuss the details about needs and demands before proposing a plan.</span>
+         </div>
+         <div class="span-2">
+           <div class="number-box"><span>07</span></div>
+           <span class="High-Touch-Communica">High Touch Communication.</span>
+           <span class="We-meet-customers-in">We meet customers in set place to discuss the details about needs and demands before proposing a plan.</span>
+         </div>
+         <div class="span-2"><div class="number-box"><span>08</span></div>
+         <span class="Committed-to-Quality">Committed to Quality.</span>
+         <span class="We-meet-customers-in">We meet customers in set place to discuss the details about needs and demands before proposing a plan.</span>
+         </div>
         </div>
-      </div>
+        </div>
+        </div>
     <!-- Elements End -->
+    
+    <!-- News -->
+    <div class="news">
+      <div class="news-left">
+        <div class="l-h"> <span class="Were-confident-that">We’re confident that we are the only network services, computer support, or IT consulting business that provides these benefits to your business.</span></div>
+        <div class="l-p"><span class="Lorem-Ipsum-is-simpl">
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type
+</span></div>
+       </div>
+      <div class="news-right">
+
+      </div>
+    </div>
+    <!-- News End -->
 
     <!-- Main End -->
   </div>

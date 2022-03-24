@@ -304,13 +304,8 @@ a {
   width: 256px;
   height: 48px;
   margin: 16px 0 16px 20px;
-  font-family: Roboto;
   font-size: 16px;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
   line-height: 1.5;
-  letter-spacing: normal;
   text-align: left;
   color: #545454;
 }
@@ -353,13 +348,9 @@ a {
   width: 644px;
   height: 84px;
   margin-bottom: 40px;
-  font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
-  font-stretch: normal;
-  font-style: normal;
   line-height: 1.4;
-  letter-spacing: normal;
   text-align: center;
   color: #fff;
 }
@@ -373,5 +364,91 @@ a {
 .elements {
   width: 100%;
   height: 710px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Why-Choose-Us {
+  height: 50px;
+  margin: 100px 0 86px 0;
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 1.04;
+  color: #000;
+}
+.e-top {
+  display: flex;
+  width: 100%;
+  margin-bottom: 50px;
+  align-items: center;
+}
+.span-1 {
+  height: 172px;
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.number-box {
+  width: 50px;
+  height: 50px;
+  border: solid 2px #5f70ad;
+  padding: 11.5px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+.number-box > span {
+  font-size: 16px;
+  font-weight: 500;
+  color: #5f70ad;
+}
+.High-Touch-Communica {
+  width: 204px;
+  height: 24px;
+  margin: 20px 33px 6px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  text-align: center;
+  color: #000;
+}
+.We-Are-FUN-To-Work-W {
+  width: 189px;
+  height: 24px;
+  margin: 20px 40.5px 6px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000;
+}
+.Committed-to-Quality {
+  width: 156px;
+  height: 24px;
+  margin: 20px 57px 6px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000;
+}
+.We-meet-customers-in {
+  width: 270px;
+  height: 62px;
+  margin: 6px 0 0;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #4a4a4a;
+}
+.e-bottom {
+  display: flex;
+}
+.span-2 {
+  height: 172px;
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 /* Elements End */
