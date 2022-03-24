@@ -452,3 +452,46 @@ a {
   align-items: center;
 }
 /* Elements End */
+
+/* News */
+.news {
+  width: 100%;
+  height: 556px;
+  background-color: #f9f6f1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.news-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-right: 152px;
+}
+.l-h {
+  width: 470px;
+  height: 128px;
+  margin: 30px 0px 20px 0;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.33;
+  text-align: left;
+  color: #000;
+}
+.l-p {
+  width: 470px;
+  height: 96px;
+  margin: 20px 0px 82px 0;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  color: #5e5e5e;
+}
+/* News End */
+
+/* Footer */
+.footer{
+background-image: url("~@/assets/images/Mask.png");
+}
+/* Footer End*/

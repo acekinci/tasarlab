@@ -211,15 +211,19 @@
     <div class="news">
       <div class="news-left">
         <div class="l-h"> <span class="Were-confident-that">We’re confident that we are the only network services, computer support, or IT consulting business that provides these benefits to your business.</span></div>
-        <div class="l-p"><span class="Lorem-Ipsum-is-simpl">
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type
-</span></div>
+        <div class="l-p"><span class="Lorem-Ipsum-is-simpl-n-l">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type</span></div>
        </div>
       <div class="news-right">
-
+       <img src="./assets/images/unsplash_46bom4lObsA.png" class="unsplash46bom4lObsA">
       </div>
     </div>
     <!-- News End -->
+
+    <!-- Footer -->
+    <div class="footer">
+      
+    </div>
+    <!-- Footer End-->
 
     <!-- Main End -->
   </div>
