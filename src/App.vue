@@ -36,10 +36,10 @@
               </div>
           </div>
           <div class="carousel-item">
-            <img src="images/unsplash_g1Kr4Ozfoac.png" class="d-block w-100 carousel-img" alt="...">
+            <img src="./assets/images/unsplash_g1Kr4Ozfoac.png" class="d-block w-100 carousel-img" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="images/unsplash_g1Kr4Ozfoac.png" class="d-block w-100 carousel-img" alt="...">
+            <img src="./assets/images/unsplash_g1Kr4Ozfoac.png" class="d-block w-100 carousel-img" alt="...">
           </div>
         </div>
       </div>
@@ -47,11 +47,11 @@
       <!-- Pages -->
       <div class="pages">
             <div class="logos">
-                <a href=""><img src="images/Logo4.png" alt="" class="logo-p"></a>
-                <a href=""><img src="images/Logo3.png" alt="" class="logo-p"></a>                
-                <a href=""><img src="images/Logo2.png" alt="" class="logo-p"></a>
-                <a href=""><img src="images/Logo1.png" alt="" class="logo-p"></a>
-                <a href=""><img src="images/Logo.png" alt=""></a>
+                <a href=""><img src="./assets/images/Logo4.png" alt="" class="logo-p"></a>
+                <a href=""><img src="./assets/images/Logo3.png" alt="" class="logo-p"></a>                
+                <a href=""><img src="./assets/images/Logo2.png" alt="" class="logo-p"></a>
+                <a href=""><img src="./assets/images/Logo1.png" alt="" class="logo-p"></a>
+                <a href=""><img src="./assets/images/Logo.png" alt=""></a>
             </div>
       </div>
       <!-- Pages End -->
@@ -61,21 +61,21 @@
         <div class="services-top">
           <div class="box-s">
             <h3>Design <br> Product Software</h3>
-            <img src="/images/Illus.png" alt="">
+            <img src="./assets/images/Illus.png" alt="">
             <p>We meet customers in set place to discuss the details about needs and demands before proposing a plan.
             </p>
             <a href="">Learn more</a>
           </div>
           <div class="box-s">
             <h3>Design <br> Product Software</h3>
-            <img src="/images/Illus1.png" alt="">
+            <img src="./assets/images/Illus1.png" alt="">
             <p>We meet customers in set place to discuss the details about needs and demands before proposing a plan.
             </p>
             <a href="">Learn more</a>
           </div>
           <div class="box-s">
             <h3>Design <br> Product Software</h3>
-            <img src="/images/Illus2.png" alt="">
+            <img src="./assets/images/Illus2.png" alt="">
             <p>We meet customers in set place to discuss the details about needs and demands before proposing a plan.
             </p>
             <a href="">Learn more</a>
@@ -83,7 +83,7 @@
           <div class="box-s">
             <div class="special">
             <h3>Design <br> Product Software</h3>
-            <img src="/images/Illus.png" alt="">
+            <img src="./assets/images/Illus.png" alt="">
             <p>We meet customers in set place to discuss the details about needs and demands before proposing a plan.
             </p>
             <a href="">Learn more</a>
