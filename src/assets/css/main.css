@@ -25,13 +25,8 @@ a {
 
 /* Header */
 .header {
-  align-items: center;
   height: 100px;
-  position: absolute;
   z-index: 10000;
-  display: flex;
-  width: 100%;
-  justify-content: space-between;
 }
 .header-left {
   margin-left: 2.313rem;

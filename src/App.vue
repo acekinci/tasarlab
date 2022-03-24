@@ -3,7 +3,7 @@
     <div class="main">
     <div id="carouselExampleIndicators" class="carousel slide">
           <!-- Header -->
-        <div class="header">
+        <div class="header justify-content-between d-flex w-100 align-items-center position-absolute">
             <div class="header-left">
                 <div class="Path"><h2 class="purple-m">M</h2></div>
                 <div class="Rectangle"></div>
