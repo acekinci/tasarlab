@@ -1,6 +1,6 @@
 # tasarlab
 
-##Mülakat
+## Mülakat
 
 Bana verilen ve daha önceden vue.js bilgim olmadan 1 günde kodladığım mülakat projesi (responsive değil)
 
